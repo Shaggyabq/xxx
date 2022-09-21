@@ -1,0 +1,30 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+ul {
+    line-height: 70px;
+    background-color: black;
+    text-align: center;
+
+}
+
+li {
+   display: inline-block;
+}
+
+a {
+margin-right: 50px;
+margin-left: 50px;
+color: aliceblue;
+}
+
+a :hover {
+    text-decoration: none;
+}
+
+li :hover {
+
+color: crimson;
+}
